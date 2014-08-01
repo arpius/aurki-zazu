@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">\u00A0Aurki zazu!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_jugar">Jolastu</string>
+    <string name="btn_salir">Irten</string>
+    <string name="btn_info">Info</string>
+    <string name="title_activity_categoria">Kategoria aukeratu</string>
+    <string name="btn_monte">Mendia</string>
+    <string name="btn_playa">Hondartza</string>
+    <string name="btn_ciudad">Hiria</string>
+    <string name="btn_granja">Baserria</string>
+    <string name="title_activity_info">Info</string>
+    <string name="autor">Aritz Piñero-k garatua\n(github.com/arpius)\n\nDave Gandy-k egindako ikonoa www.flaticon.com-en</string>
+    <string name="title_activity_playa">Hondartza</string>
+
+    <string-array name="elementos_playa">
+        <item>Area</item>
+        <item>Txalupa</item>
+        <item>Karramarro</item>
+        <item>Ontzia, pala eta arrastelua</item>
+        <item>Itsasoa</item>
+        <item>Soroslea</item>
+        <item>Eguzkitakoa</item>
+        <item>Toalla</item>
+    </string-array>
+
+    <string name="title_activity_monte">Mendia</string>
+
+    <string-array name="elementos_monte">
+        <item>Zuhaitza</item>
+        <item>Ahuntza</item>
+        <item>Lorea</item>
+        <item>Belarra</item>
+        <item>Txoria</item>
+        <item>Harria</item>
+        <item>Ibaia</item>
+        <item>Basabide</item>
+    </string-array>
+
+    <string name="title_activity_ciudad">Hiria</string>
+
+    <string-array name="elementos_ciudad">
+        <item>Espaloia</item>
+        <item>Liburutegia</item>
+        <item>Errepidea</item>
+        <item>Eraikina</item>
+        <item>Estatua</item>
+        <item>Farola</item>
+        <item>Iturria</item>
+        <item>Denda</item>
+    </string-array>
+
+    <string name="title_activity_granja">Baserria</string>
+
+    <string-array name="elementos_granja">
+        <item>Astoa</item>
+        <item>Zaldia</item>
+        <item>Txerria</item>
+        <item>Untzia</item>
+        <item>Oiloa</item>
+        <item>Baratza</item>
+        <item>Antzara</item>
+        <item>Behia</item>
+    </string-array>
+
+    <string name="encontrado">Froga gainditua! Oso ongi, dena aurkitu duzu.</string>
+
+
+</resources>

@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="#ffa9faff"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txtTitulo"
+        android:text="@string/app_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textSize="60sp"
+        android:textColor="#ff3962ff" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_jugar"
+        android:id="@+id/btnJugar"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/rounded_btn_jugar"
+        android:lines="2"
+        android:paddingLeft="6sp"
+        android:paddingRight="6sp"
+        android:textSize="60sp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_salir"
+        android:id="@+id/btnSalir"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/rounded_btn_salir"
+        android:lines="2"
+        android:paddingLeft="6sp"
+        android:paddingRight="6sp"
+        android:textSize="40sp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_info"
+        android:id="@+id/btnInfo"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/btnJugar"
+        android:layout_toEndOf="@id/btnJugar"
+        android:background="@drawable/rounded_btn_info"
+        android:lines="2"
+        android:paddingLeft="6sp"
+        android:paddingRight="6sp"
+        android:textSize="25sp"/>
+
+</RelativeLayout>

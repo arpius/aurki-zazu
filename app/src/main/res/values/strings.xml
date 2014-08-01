@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">\u00A0Aurki zazu!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_jugar">Jugar</string>
+    <string name="btn_salir">Salir</string>
+    <string name="btn_info">Info</string>
+    <string name="title_activity_categoria">Escoge categoría</string>
+    <string name="btn_monte">Montaña</string>
+    <string name="btn_playa">Playa</string>
+    <string name="btn_ciudad">Ciudad</string>
+    <string name="btn_granja">Granja</string>
+    <string name="title_activity_info">Info</string>
+    <string name="autor">Desarrollado por Aritz Piñero\n(github.com/arpius)\n\nIcono creado por Dave Gandy de www.flaticon.com</string>
+    <string name="title_activity_playa">Playa</string>
+
+    <string-array name="elementos_playa">
+        <item>Arena</item>
+        <item>Barco</item>
+        <item>Cangrejo</item>
+        <item>Cubo, pala y rastrillo</item>
+        <item>Mar</item>
+        <item>Socorrista</item>
+        <item>Sombrilla</item>
+        <item>Toalla</item>
+    </string-array>
+
+    <string name="title_activity_monte">Montaña</string>
+
+    <string-array name="elementos_monte">
+        <item>Árbol</item>
+        <item>Cabra</item>
+        <item>Flor</item>
+        <item>Hierba</item>
+        <item>Pájaro</item>
+        <item>Piedra</item>
+        <item>Río</item>
+        <item>Senda</item>
+    </string-array>
+
+    <string name="title_activity_ciudad">Ciudad</string>
+
+    <string-array name="elementos_ciudad">
+        <item>Acera</item>
+        <item>Biblioteca</item>
+        <item>Carretera</item>
+        <item>Edificio</item>
+        <item>Estatua</item>
+        <item>Farola</item>
+        <item>Fuente</item>
+        <item>Tienda</item>
+    </string-array>
+
+    <string name="title_activity_granja">Granja</string>
+
+    <string-array name="elementos_granja">
+        <item>Burro</item>
+        <item>Caballo</item>
+        <item>Cerdo</item>
+        <item>Conejo</item>
+        <item>Gallina</item>
+        <item>Huerta</item>
+        <item>Oca</item>
+        <item>Vaca</item>
+    </string-array>
+
+    <string name="encontrado">¡Prueba superada! Muy bien, lo has encontrado todo.</string>
+
+
+</resources>
